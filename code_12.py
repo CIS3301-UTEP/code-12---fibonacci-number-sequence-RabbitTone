@@ -1,3 +1,7 @@
+# Jose Miguel Reyes
+# CIS 3301
+# Fibonacci Number Sequence
+
 def get_fibonacci_number(position):
     if position <= 2:
         return 1
